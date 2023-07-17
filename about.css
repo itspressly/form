@@ -1,0 +1,73 @@
+.about-me{
+ display: flex;
+ 
+}
+
+.about{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 650px;
+}
+
+.HEADER-1{
+    display: flex;
+    justify-content: center;
+}
+
+.pic11{
+    width: 610px;
+    display: flex;
+    justify-content: center;
+ height: 480px;
+}
+
+.pictures{
+    
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    height: 150px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.fa-brands.fa-instagram.fa-beat-fade{
+    color: aqua;
+}
+
+.pictures img{
+    width: 150px;
+}
+/*
+#p2{
+    border-radius: 3px;
+    width: 90px;
+}
+
+#p7{
+    border-radius: 3px;
+    width: 70px;
+}
+
+#p4{
+    border-radius: 3px;
+    width: 70px;
+}
+
+
+#p5{
+    border-radius: 3px;
+    width: 70px;
+}
+
+#p6{
+    border-radius: 3px;
+    width: 70px;
+}
+*/
